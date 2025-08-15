@@ -1,6 +1,6 @@
 # 👋 Hello and Welcome
 
-## 🧮 Computer Science & Data Science | 🧠 ML Infrastructure | 🛠️ Systems Developer | 🧬 DevOps
+### 🧮 Computer Science & Data Science | 🧠 ML Infrastructure | 🛠️ Systems Developer | 🧬 DevOps
 
 Welcome to my GitHub! I'm a recent graduate from Lafayette College with a B.S. in Computer Science and a minor in Data Science. I'm driven, dynamic software developer focused on supporting ML infrastructure, operations, and large, data-driven software projects. I have experience with embedded systems in the automotive indusrty and modeling infrastructure in the pharmaceutical industry. I'm motivated and inspired by difficult engineering challenges, where complex problems become meaningful, intellectual pursuits.
 
@@ -10,7 +10,7 @@ Thanks for visiting! Feel free to explore my repositories, contribute, or reach 
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
 - B.S. in Computer Science, Minor in Data Science — Lafayette College, Class of 2025
 - Experience in ML Ops, embedded systems, and commercial analytics
@@ -19,7 +19,7 @@ Thanks for visiting! Feel free to explore my repositories, contribute, or reach 
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/BenjaminXGregory)
 - 🌐 [Website](https://portfolio-website-br8x.onrender.com/)

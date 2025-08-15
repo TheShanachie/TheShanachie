@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a recent graduate from Lafayette College with a B.S. in Computer Science and a minor in Data Science. I'm driven, dynamic software developer focused on supporting ML infrastructure, operations, and large, data-driven software projects. I have experience with embedded systems in the automotive indusrty and modeling infrastructure in the pharmaceutical industry. I'm motivated and inspired by difficult engineering challenges, where complex problems become meaningful, intellectual pursuits.
 
-I’m fascinated by ancient board games and have built a full engine for Tafl—including ML agents to play them. A good portion of it has been made private, but get in touch if you want to try it out. It’s my way of blending history and my own interests with modern AI infrastructure developement.
+I’m fascinated by ancient board games and have built a full engine for Tafl—including ML agents to play them. A good portion of it has been made private, but get in touch if you want to try it out. It's my favorite project by far! It’s my way of blending history and my own interests with modern AI infrastructure developement.
 
 Thanks for visiting! Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate.
 
